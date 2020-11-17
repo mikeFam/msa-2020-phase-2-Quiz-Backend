@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MSA2020\\Phase2\\msa-phase-2-Quiz-Backend\\TriviaAPI\\TriviaAPI\\TriviaAPI.csproj": {}
+    "E:\\MSA2020\\Phase2\\msa-phase-2-Quiz-Backend\\msa-2020-phase-2-Quiz-Backend\\TriviaAPI\\TriviaAPI\\TriviaAPI.csproj": {}
   },
   "projects": {
-    "E:\\MSA2020\\Phase2\\msa-phase-2-Quiz-Backend\\TriviaAPI\\TriviaAPI\\TriviaAPI.csproj": {
+    "E:\\MSA2020\\Phase2\\msa-phase-2-Quiz-Backend\\msa-2020-phase-2-Quiz-Backend\\TriviaAPI\\TriviaAPI\\TriviaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MSA2020\\Phase2\\msa-phase-2-Quiz-Backend\\TriviaAPI\\TriviaAPI\\TriviaAPI.csproj",
+        "projectUniqueName": "E:\\MSA2020\\Phase2\\msa-phase-2-Quiz-Backend\\msa-2020-phase-2-Quiz-Backend\\TriviaAPI\\TriviaAPI\\TriviaAPI.csproj",
         "projectName": "TriviaAPI",
-        "projectPath": "E:\\MSA2020\\Phase2\\msa-phase-2-Quiz-Backend\\TriviaAPI\\TriviaAPI\\TriviaAPI.csproj",
+        "projectPath": "E:\\MSA2020\\Phase2\\msa-phase-2-Quiz-Backend\\msa-2020-phase-2-Quiz-Backend\\TriviaAPI\\TriviaAPI\\TriviaAPI.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "E:\\MSA2020\\Phase2\\msa-phase-2-Quiz-Backend\\TriviaAPI\\TriviaAPI\\obj\\",
+        "outputPath": "E:\\MSA2020\\Phase2\\msa-phase-2-Quiz-Backend\\msa-2020-phase-2-Quiz-Backend\\TriviaAPI\\TriviaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
